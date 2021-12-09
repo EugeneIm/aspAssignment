@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{E0A984D8-9382-4142-B486-D02451647CCE}|Default">
+  <MonoDevelop.Ide.ItemProperties.assignment PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="assignment/Repositories/AccountRepo.cs">
+    <Files>
+      <File FileName="assignment/Controllers/AccountController.cs" Line="39" Column="6" />
+      <File FileName="assignment/Repositories/AccountRepo.cs" Line="105" Column="1" />
+      <File FileName="assignment/Views/Account/Index.cshtml" Line="1" Column="1" />
+      <File FileName="assignment/Views/Account/Details.cshtml" Line="1" Column="1" />
+      <File FileName="assignment/Data/ApplicationDbContext.cs" Line="23" Column="49" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="assignment" expanded="True">
+            <Node name="assignment" expanded="True">
+              <Node name="Areas" expanded="True">
+                <Node name="Identity" expanded="True">
+                  <Node name="Pages" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Repositories" expanded="True">
+                <Node name="AccountRepo.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Account" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
