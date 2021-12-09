@@ -7821,14 +7821,14 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/eugeneim/Desktop/assignment/assignment/assignment/assignment.csproj",
+      "projectUniqueName": "/Users/eugeneim/Desktop/aspAssign/aspAssignment/assignment/assignment/assignment.csproj",
       "projectName": "assignment",
-      "projectPath": "/Users/eugeneim/Desktop/assignment/assignment/assignment/assignment.csproj",
+      "projectPath": "/Users/eugeneim/Desktop/aspAssign/aspAssignment/assignment/assignment/assignment.csproj",
       "packagesPath": "/Users/eugeneim/.nuget/packages/",
-      "outputPath": "/Users/eugeneim/Desktop/assignment/assignment/assignment/obj/",
+      "outputPath": "/Users/eugeneim/Desktop/aspAssign/aspAssignment/assignment/assignment/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/eugeneim/.config/NuGet/NuGet.Config"
+        "/Users/eugeneim/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"

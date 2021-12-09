@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AAf7KnkE4ybWl6v0irz2gLotp8OYq4bu3mhlk4+XpTxRS6hQfgHQWo0YBNjEm1a4OpEeGeSzSGij1KoupGrJlg==",
+  "dgSpecHash": "Fry57MvIYec9c9dJp0acZ4FCIFuM09AWIZ9L7il1PC0ESEM5cD2j/TCizHohkY52gcw16ZLzIaXChbt18K3n7g==",
   "success": true,
-  "projectFilePath": "/Users/eugeneim/Desktop/assignment/assignment/assignment/assignment.csproj",
+  "projectFilePath": "/Users/eugeneim/Desktop/aspAssign/aspAssignment/assignment/assignment/assignment.csproj",
   "expectedPackageFiles": [
     "/Users/eugeneim/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/eugeneim/.nuget/packages/microsoft.aspnetcore.cryptography.internal/5.0.12/microsoft.aspnetcore.cryptography.internal.5.0.12.nupkg.sha512",
